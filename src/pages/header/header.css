@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    /* position: fixed; */
+    height: auto;
+    background-color: #edecec;
+    text-align: left;
+}
+
+header > button {
+    padding: 7px 23px;
+    background-color: #c31a1a;
+    color: white;
+    margin: 10px 48px;
+    border: 1px solid #c31a1a;
+    border-radius: 5px;
+}
+
+header > button >a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
